@@ -1,0 +1,165 @@
+ld	ITEM	g	$	shipping estimate	$/g	WHERE	TYPE	DATE	NOTE
+0	Clover Honey Bear	340	$2.50		0.0074	Kroger	ADDITIVE	11/4/2020	
+1	Old Fashioned Whole Grain Oats	1191	$2.69		0.0023	Kroger	ADDITIVE	11/4/2020	
+2	kukui nut oil	113	$4.09		0.0362	Brambleberry	BASE OIL	7/9/2020	
+3	kukui nut oil	452	$14.09		0.0312	Brambleberry	BASE OIL	7/9/2020	
+4	Premium White Beeswax	454	$12.99		0.0286	Brambleberry	BASE OIL	7/10/2020	
+5	palm oil	454	$2.99		0.0066	Brambleberry	BASE OIL	7/9/2020	
+6	coconut oil	454	$3.99		0.0088	Brambleberry	BASE OIL	7/9/2020	
+7	rice bran oil	454	$3.99		0.0088	Brambleberry	BASE OIL	7/9/2020	
+8	canola oil	454	$4.79		0.0106	Brambleberry	BASE OIL	7/9/2020	
+9	Olive Oil Pomace	454	$5.49		0.0121	Brambleberry	BASE OIL	7/9/2020	
+10	almond oil	454	$5.75		0.0127	pinemeadows.net	BASE OIL		
+11	olive oil	454	$6.49		0.0143	Brambleberry	BASE OIL	7/9/2020	
+12	sweet almond oil	454	$6.99		0.0154	Brambleberry	BASE OIL	7/9/2020	
+13	avocado oil	454	$7.59		0.0167	Brambleberry	BASE OIL	7/9/2020	
+14	Shea Butter	454	$7.99		0.0176	Brambleberry	BASE OIL	7/9/2020	
+15	All Natural Pure Leaf Lard	454	$24.45		0.0539	proper foods for life	BASE OIL		
+16	Filippo Berio Olive Oil	698	$6.70		0.0096	Kroger	BASE OIL	7/15/2020	
+17	Kroger Pure Coconut Oil	824	$4.93		0.0060	Kroger	BASE OIL		
+18	palm kernel flakes	907	$8.29		0.0091	Brambleberry	BASE OIL	7/9/2020	
+19	olive oil	3175	$28.79		0.0091	Brambleberry	BASE OIL	7/9/2020	
+20	palm oil	3175	$17.39		0.0055	Brambleberry	BASE OIL	7/9/2020	
+21	coconut oil	3178	$17.99		0.0057	Brambleberry	BASE OIL	7/9/2020	
+22	castor oil	3178	$23.19		0.0073	Brambleberry	BASE OIL	7/9/2020	
+23	rice bran oil	3178	$23.19		0.0073	Brambleberry	BASE OIL	7/9/2020	
+24	sweet almond oil	3178	$29.98		0.0094	Brambleberry	BASE OIL	7/9/2020	
+25	Olive Oil Pomace	3178	$29.99		0.0094	Brambleberry	BASE OIL	7/9/2020	
+26	avocado oil	3178	$42.49		0.0134	Brambleberry	BASE OIL	7/9/2020	
+27	kukui nut oil	3178	$86.76		0.0273	Brambleberry	BASE OIL	7/9/2020	
+28	Walmart soybean oil	3480	$6.68		0.0019	Walmart	BASE OIL		
+29	palm kernel flakes	4535	$31.39		0.0069	Brambleberry	BASE OIL	7/9/2020	
+30	shea butter	4540	$65.49		0.0144	Brambleberry	BASE OIL	7/9/2020	
+31	olive oil	15876	$135.89		0.0086	Brambleberry	BASE OIL	7/9/2020	
+32	palm oil	15890	$54.99		0.0035	Brambleberry	BASE OIL	7/9/2020	
+33	coconut oil	15890	$73.50		0.0046	Brambleberry	BASE OIL	7/9/2020	
+34	castor oil	15890	$104.99		0.0066	Brambleberry	BASE OIL	7/9/2020	
+35	rice bran oil	15890	$112.99		0.0071	Brambleberry	BASE OIL	7/9/2020	
+36	Olive Oil Pomace	15890	$113.09		0.0071	Brambleberry	BASE OIL	7/9/2020	
+37	sweet almond oil	15890	$139.39		0.0088	Brambleberry	BASE OIL	7/9/2020	
+38	avocado oil	15890	$197.49		0.0124	Brambleberry	BASE OIL	7/9/2020	
+39	palm kernel flakes	22675	$135.38		0.0060	Brambleberry	BASE OIL	7/9/2020	
+40	shea butter	24970	$269.49		0.0108	Brambleberry	BASE OIL	7/9/2020	
+41	Amaranth Pink	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+42	Desert Sunset	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+43	Fandango Pink	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+44	Khaki Yellow	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+45	Orange Vibrance	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+46	Wisteria Purple	28	$3.85		0.1375	Nurture Soap Supplies	COLOURANT		
+47	Gold Sparkle Mica	28	$4.50		0.1607	brambleberry	COLOURANT		
+48	Titanium Dioxide	28	$3.00		0.1058	Brambleberry	COLOURANT		
+49	Neon Blue	28	$8.00		0.2822	Brambleberry	COLOURANT		
+50	Fizzy Lemonade	28	$9.99		0.3524	Brambleberry	COLOURANT	7/9/2020	
+51	Fizzy Lemonade	454	$119.99		0.2645	Brambleberry	COLOURANT	7/9/2020	
+52	Titanium Dioxide	454	$8.00		0.0176	Brambleberry	COLOURANT		
+53	lye	765	$10.00		0.0131	Brambleberry	LYE		
+54	lowes lye	907	$15.98		0.0176	Lowes Roebic drain cleaner	LYE		
+55	rose absolute	2	$14.80		7.9613	brambleberry 	SCENT, ESSENTIAL OIL		
+56	vanilla essential oil	10	$6.00		0.6000	Amazon	SCENT, ESSENTIAL OIL		
+57	WALMART GURUNANDA PEPPERMINT	14	$5.94		0.4243		SCENT, ESSENTIAL OIL	7/16/2020	
+58	KROGER PEPPERMINT	14	$5.99		0.4279		SCENT, ESSENTIAL OIL	7/16/2020	
+59	peppermint essential oil	15	$6.00		0.4000	hobby lobby	SCENT, ESSENTIAL OIL		
+60	general sandalwood oil price	28	$275.00		9.8214	Price quoted on a forum I read.	SCENT, ESSENTIAL OIL		
+61	Peppermint essential oil	28	$6.00		0.2116	Mad Oils	SCENT, ESSENTIAL OIL		
+62	lemongrass essential oil	50	$5.25		0.1058	Brambleberry	SCENT, ESSENTIAL OIL	7/9/2020	
+63	Peppermint Essential Oil, 1st Distill 	99	$13.00		0.1313	Brambleberry	SCENT, ESSENTIAL OIL	7/16/2020	
+64	Peppermint Essential Oil, 2nd Distill 	99	$16.70		0.1687	Brambleberry	SCENT, ESSENTIAL OIL	7/16/2020	
+65	peppermint essential oil	99	$15.75		0.1586	Mad Oils	SCENT, ESSENTIAL OIL		
+66	lemongrass essential oil	113	$8.00		0.0705	Brambleberry	SCENT, ESSENTIAL OIL	7/9/2020	
+67	Passion Fruit Seed Oil	114	$19.30		0.1700	gardenofwisdom.com	SCENT, ESSENTIAL OIL		
+68	lemongrass essential oil	198	$15.25		0.0768	Brambleberry	SCENT, ESSENTIAL OIL	7/9/2020	
+69	Lavender & Chamomile	227	$16.20		0.0714	Mad Oils	SCENT, ESSENTIAL OIL		
+70	lemongrass essential oil	425	$29.90		0.0703	Brambleberry	SCENT, ESSENTIAL OIL	7/9/2020	
+71	Nag Champa	28	$4.65		0.1661	Nurture Soap Supplies	SCENT, FRAGRANCE OIL		
+72	Snow Witch	57	$9.00		0.1587	Mad Oils	SCENT, FRAGRANCE OIL		
+73	vanilla fragrance	57	$7.95		0.1395	trading post	SCENT, FRAGRANCE OIL		
+74	Sexy Beast	106	$18.35		0.1726	Mad Oils	SCENT, FRAGRANCE OIL		
+75	Cotton Candy	113	$8.75		0.0772	Mad Oils	SCENT, FRAGRANCE OIL		
+76	Home for the Holidays	113	$8.75		0.0772	Mad Oils	SCENT, FRAGRANCE OIL		
+77	Mad Oils Cotton Candy	113	$8.75		0.0772	Mad Oils	SCENT, FRAGRANCE OIL		
+78	Mad Oils Home for the Holidays	113	$8.75		0.0772	Mad Oils	SCENT, FRAGRANCE OIL		
+79	Mad Oils Lavender & Chamomile Type	113	$8.75		0.0772	Mad Oils	SCENT, FRAGRANCE OIL		
+80	Snow Witch	113	$10.95		0.0966	Mad Oils	SCENT, FRAGRANCE OIL		
+81	Pink Sugar	113	$11.75		0.1036	Mad Oils	SCENT, FRAGRANCE OIL		
+82	dragon's blood	113	$12.74		0.1123	Mad Oils	SCENT, FRAGRANCE OIL		
+83	Gourmet Chocolate	113	$13.28		0.1171	Mad Oils	SCENT, FRAGRANCE OIL		
+84	Northern Pine Fragrance Oil	123	$9.99		0.0812	Brambleberry	SCENT, FRAGRANCE OIL		
+85	Earl Grey Lemon Fragrance Oil	227	$17.28		0.0761	Brambleberry	SCENT, FRAGRANCE OIL		
+86	Lime Fragrance Oil	113	$8.55		0.0757	Brambleberry	SCENT, FRAGRANCE OIL		
+87	Hydrated Chrome Green Pigment 	28	$8.99		0.3211	Brambleberry	COLOURANT	8/7/2020	
+88	Ginger Essential Oil	11	$8.00		0.7273	Brambleberry	SCENT, ESSENTIAL OIL		
+89	Ginger Essential Oil	50	$38.99		0.7861	Brambleberry	SCENT, ESSENTIAL OIL	3/3/2021	
+90	Ginger Essential Oil	99	$57.85		0.5843	Brambleberry	SCENT, ESSENTIAL OIL		
+91	 Orange 10X Essential Oil 	43	$4.50		0.1058	Brambleberry	SCENT, ESSENTIAL OIL		
+92	 Orange 10X Essential Oil 	113	$9.55		0.0842	Brambleberry	SCENT, ESSENTIAL OIL		
+93	 Orange 10X Essential Oil 	198	$18.15		0.0915	Brambleberry	SCENT, ESSENTIAL OIL		
+94	Jojoba Oil	113	$8.49		0.0749	Brambleberry	BASE OIL		
+95	Jojoba Oil	454	$30.29		0.0668	Brambleberry	BASE OIL		
+96	Hemp Seed Oil	454	$9.99		0.0220	Brambleberry	BASE OIL		
+97	Eucalyptus Essential Oil	85	$9.55		0.1124	Brambleberry	SCENT, ESSENTIAL OIL		
+98	Fired Up Fuchsia	28	$4.49		0.1604	Brambleberry	COLOURANT		
+99	Strawberry Fragrance Oil	113	$9.56		0.0846	Brambleberry	SCENT, FRAGRANCE OIL		
+100	Lavender 40/42 Essential Oil	99	$18.65		0.1884	Brambleberry	SCENT, ESSENTIAL OIL		
+101	Fir Needle Essential Oil	50	$6.50		0.1310	Brambleberry	SCENT, ESSENTIAL OIL		
+102	Cedarwood Atlas Essential Oil	50	$12.90		0.2601	Brambleberry	SCENT, ESSENTIAL OIL		
+103	Juniper Berry Essential Oil	42.52	$12.50		0.2940	Brambleberry	SCENT, ESSENTIAL OIL		
+104	Frankincense Essential Oil	11.3	$10.99		0.9726	Brambleberry	SCENT, ESSENTIAL OIL		
+105	Lavender 40/42 Essential Oil	198	$31.75		0.1604	Brambleberry	SCENT, ESSENTIAL OIL		
+106	Coconut Citrus Sorbet Fragrance Oil	99	$6.93		0.0700	Brambleberry	SCENT, FRAGRANCE OIL		
+107	Orange Valencia Essential Oil	43	$3.50		0.0823	Brambleberry	SCENT, ESSENTIAL OIL		
+108	Green Fig Fragrance Oil	113	$12.66		0.1120	Brambleberry	SCENT, FRAGRANCE OIL	11/3/2020	
+109	Ground Turmeric	42.52	$3.19		0.0750	Kroger	ADDITIVE	11/4/2020	
+110	Litsea Essential Oil	43	$5.60		0.1317	Brambleberry	SCENT, ESSENTIAL OIL	10/1/2020	
+111	Peppermint Essential Oil, 1st Distill 	198	$31.60		0.1596	Brambleberry	SCENT, ESSENTIAL OIL	11/8/2020	
+112	Peppermint Essential Oil, 1st Distill 	425	$65.45		0.1539	Brambleberry	SCENT, ESSENTIAL OIL	11/8/2020	
+113	Peppermint Essential Oil, 1st Distill 	2268	$349.10		0.1539	Brambleberry	SCENT, ESSENTIAL OIL	11/8/2020	
+114	Vanilla Select Fragrance Oil 	57	$5.64		0.0995	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+115	Vanilla Select Fragrance Oil 	113	$7.76		0.0684	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+116	Vanilla Select Fragrance Oil 	227	$12.28		0.0541	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+117	Vanilla Select Fragrance Oil 	454	$22.56		0.0497	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+118	Green Fig Fragrance Oil	113	$12.66		0.1120	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+119	Green Fig Fragrance Oil	57	$7.28		0.1277	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+120	Green Fig Fragrance Oil	226	$22.09		0.0977	Brambleberry	SCENT, FRAGRANCE OIL	11/8/2020	
+121	Castor Oil	454	$4.79		0.0106	Brambleberry	BASE OIL	11/16/2020	
+122	distilled water	3785	$0.89		0.0002	Kroger	ADDITIVE	11/19/2020	
+123	Peppermint Essential Oil	454	$45.08		0.0993	Bulk Apothecary	SCENT, ESSENTIAL OIL	11/19/2020	
+124	Lemongrass essential oil	2268	$123.33		0.0544	Bulk Apothecary	SCENT, ESSENTIAL OIL	11/19/2020	
+125	Lemongrass essential oil	454	$30.83		0.0679	Bulk Apothecary	SCENT, ESSENTIAL OIL	11/19/2020	
+126	Lemongrass essential oil	57	$9.19		0.1621	Bulk Apothecary	SCENT, ESSENTIAL OIL	11/19/2020	
+127	Titanium Dioxide	227	$6.98		0.0308	Bulk Apothecary	COLOURANT	11/19/2020	
+128	Titanium Dioxide	454	$10.26		0.0226	Bulk Apothecary	COLOURANT	11/19/2020	
+129	Coconut Oil	397	$3.33		0.0084	Bulk Apothecary	BASE OIL	11/19/2020	
+130	coconut oil	3175	$15.84		0.0050	Bulk Apothecary	BASE OIL	11/19/2020	
+131	Palm Oil	397	$3.28		0.0083	Bulk Apothecary	BASE OIL	11/19/2020	
+132	Palm Oil	3175	$12.81		0.0040	Bulk Apothecary	BASE OIL	11/19/2020	
+133	Soybean oil	425	$2.93		0.0069	Bulk Apothecary	BASE OIL	11/19/2020	
+134	Soybean oil	3402	$11.96		0.0035	Bulk Apothecary	BASE OIL	11/19/2020	
+135	Olive Oil Pomace	397	$4.24		0.0107	Bulk Apothecary	BASE OIL	11/19/2020	
+136	Olive Oil Pomace	3402	$20.50		0.0060	Bulk Apothecary	BASE OIL	11/19/2020	
+137	lye	3629	$22.92		0.0063	Bulk Apothecary	LYE	11/19/2020	
+138	Ginger Essential Oil	57	$45.33		0.7995	Bulk Apothecary	SCENT, ESSENTIAL OIL	11/19/2020	
+139	Southern Peach Fragrance Oil	113	$10.48		0.0924	Brambleberry	SCENT, FRAGRANCE OIL	11/19/2020	
+140	melt and pour	1816	$14.00		0.0077	Brambleberry	BASE OIL	1/15/2021	
+141	Filippo Berio Extra Virgin Olive Oil	2874.6	$25.47		0.0089	Kroger	BASE OIL	1/24/2021	
+142	Coconut Cream Fragrance Oil	113	$10.48		0.0924	Brambleberry	SCENT, FRAGRANCE OIL	1/25/2021	
+143	Ginger Essential Oil	454	$220.58		0.4859	Bulk Apothecary	SCENT, ESSENTIAL OIL	2/22/2021	
+144	Kroger Soybean Oil	3785	$4.99		0.0013	Kroger	BASE OIL	2/25/2021	
+145	Tea Tree Essential Oil	50	$6.60		0.1331	Brambleberry	SCENT, ESSENTIAL OIL	2/28/2021	
+146	Tea Tree Essential Oil	99	$14.50		0.1465	Brambleberry	SCENT, ESSENTIAL OIL	2/28/2021	
+147	Tea Tree Essential Oil	213	$26.15		0.1230	Brambleberry	SCENT, ESSENTIAL OIL	2/28/2021	
+148	Tea Tree Essential Oil	425	$50.99		0.1200	Brambleberry	SCENT, ESSENTIAL OIL	2/28/2021	
+149	Tea Tree Essential Oil	2268	$271.95		0.1199	Brambleberry	SCENT, ESSENTIAL OIL	2/28/2021	
+150	Eucalyptus Essential Oil	198	$13.04		0.0659	Brambleberry	SCENT, ESSENTIAL OIL	6/22/2021	
+151	Black Oxide	28	$2.60		0.0917	Brambleberry	COLOURANT	6/22/2021	
+152	Blue Slushy Mica	28	$2.60		0.0917	Brambleberry	COLOURANT	6/22/2021	
+153	Lavender 40/42 Essential Oil	50	$9.48		0.1911	Brambleberry	SCENT, ESSENTIAL OIL	6/22/2021	
+154	Caribbean Blue Mica	28	$2.60		0.0929	Brambleberry	COLOURANT	6/22/2021	
+155	Ultramarine Blue Mica	28	$2.60		0.0929	Brambleberry	COLOURANT	6/22/2021	
+156	Kermit Green Mica	28	$2.60		0.0929	Brambleberry	COLOURANT	6/22/2021	
+157	Queen's Purple Mica	28	$2.60		0.0929	Brambleberry	COLOURANT	6/22/2021	
+158	Ultramarine Pink Oxide Pigment	28	$4.71		0.1682	Brambleberry	COLOURANT	6/22/2021	
+159	Crisp Apple Rose Fragrance Oil	112	$9.75		0.0871	Brambleberry	SCENT, FRAGRANCE OIL	6/22/2021	
+160	Black Tea Fragrance oil	50	$4.55		0.0910	Brambleberry	SCENT, FRAGRANCE OIL	6/22/2021	
+161	Bergamot Essential Oil	99	$18.24		0.1842	Brambleberry	SCENT, ESSENTIAL OIL	6/22/2021	
+162	Basil Essential Oil	99	$7.68		0.0776	Brambleberry	SCENT, ESSENTIAL OIL	6/22/2021	
+163	sweet almond oil	907	$15.39		0.0170	https://www.ingredientstodiefor.com/category/Carrier_Oils_Butters_at_a_Glance/c288/	BASE OIL	9/10/2021	
